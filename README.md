@@ -1,2 +1,1 @@
-# Test
-test
+Titanic passengers' survival prediction using Spark.
